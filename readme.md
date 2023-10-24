@@ -2,7 +2,7 @@
   <h1 align="center"> HELLO EVERYONE</h1>
 </div>
 
-![cat in spaceship](/catSpace.png)
+![cat in spaceship](/catSpaceShip.png)
 
 This is the special section when each one put some important information but not this time baby. 
 
