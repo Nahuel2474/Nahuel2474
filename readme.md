@@ -1,6 +1,8 @@
-Hi, I'm Nahuel. 👋
-I am a full stack programmer interested in future technologies. 📫 
-enthusiastic about designing and structuring websites/app websites!
-I learned PHP, JS, html, css and other languages ​​for fun and now with dedication it became my job
+# HELLO EVERYONE !
 
+### About Me : 
+
+- Front End Developer with React, html, css and JS!
+- Back End Developer with NodeJS and PHP!
+- 
 
