@@ -1,5 +1,5 @@
 # HELLO EVERYONE !
-![cat in spaceship]("./catSpace.png")
+![cat in spaceship]("/catSpace.png")
 ### About Me : 
 
 - Front End Developer with React, html, css and JS!
